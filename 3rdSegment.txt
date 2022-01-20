@@ -1,0 +1,123 @@
+﻿  <setting id="S05_Clinic_UseLogoWorkstation" type="1">false</setting>
+  <setting id="S05_SearchNetworkLicense" type="1">false</setting>
+  <setting id="DB05_Display_ToConfirmListTimePeriod" type="5">--converted--</setting>
+  <setting id="DB05_Display_ToConfirmListRecTypes" type="5">--converted--</setting>
+  <setting id="DB05_Display_AdditionalCards" type="5">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;tabPages&gt;&lt;orderTabPage id="a915a47e-c063-468e-ad90-91b959ab6334" displayStatusLine="true" autoSave="false" defaultAction="open"&gt;&lt;column id="aafe57fb-4e14-42c4-84df-f7e5ca6e78c7" /&gt;&lt;column id="a708d211-8ebe-4d05-b096-4133e3e56e9d" sort="D" /&gt;&lt;column id="adf8efb2-a62e-415f-a756-d6b2d3e0f617" /&gt;&lt;column id="a6dbf935-9e3e-4982-b8e9-95a5d18e4105" /&gt;&lt;column id="a5463277-1593-4980-a0b4-2fba7715d59e" /&gt;&lt;column id="a9f48e75-28f7-41d0-b4f3-f9e666413ffb" /&gt;&lt;/orderTabPage&gt;&lt;confirmList id="a0e728b2-4707-4a04-b5aa-d1ca70c3f3dd" name="To_x0020_Confirm" displayStatusLine="false" autoSave="true" showUnassigned="false" defaultAction="open"&gt;&lt;column id="a299ff03-7084-416a-8f56-9269b4ce2865" sort="D" /&gt;&lt;column id="a692d556-d0dd-44b7-a1ea-c82679eef83c" /&gt;&lt;column id="a5463277-1593-4980-a0b4-2fba7715d59e" /&gt;&lt;column id="a6dbf935-9e3e-4982-b8e9-95a5d18e4105" /&gt;&lt;filter class="2" columnId="af4b5138-308d-4601-a1b6-4976e38fb33d" optChecked="false" /&gt;&lt;filter class="1" columnId="a299ff03-7084-416a-8f56-9269b4ce2865" optChecked="false" select="AF155F39-AD61-474F-9FA3-4A2F1A82063A" /&gt;&lt;/confirmList&gt;&lt;/tabPages&gt;</setting>
+  <setting id="DB05_ConvertPermissionsPending" type="1">false</setting>
+  <setting id="DB05_ConvertErgoProfilev490Pending" type="1">true</setting>
+  <setting id="E05_ScreenLayout" type="4">2</setting>
+  <setting id="E05_ModuleScreenPageOptions_Review" type="5">&lt;pageoptions&gt;&lt;recordingtype xmlVersion="2" id="1"&gt;&lt;page id="aa9c5509-8d5a-4ba7-b0f2-88ba46cbd47f" name="ReviewEcgPage_x0020_1" type="101"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:1_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:1_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:1&lt;/page&gt;&lt;page id="ab40876e-3fed-431d-9e83-e228e4e3077c" name="ReviewEcgPage_x0020_2" type="101"&gt;MinSpeed:10_x002C_Speed:25_x002C_MaxSpeed:25_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:4_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:2_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:4&lt;/page&gt;&lt;page id="a84c11f4-529f-4752-9dbb-4d13ea751e81" name="QrsComplex_x0020_1" type="105"&gt;Mode:341_x002C_Lead:3_x002C_Measure:0_x002C_MinSpeed:25_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:10_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:1_x002C_MaxMultiZoom:3_x002C_MinSingleZoom:1_x002C_SingleZoom:3_x002C_MaxSingleZoom:8_x002C_Location:1&lt;/page&gt;&lt;page id="a4dc840c-18f7-4f7b-bb15-9842803b89e7" name="QrsComplex_x0020_2" type="105"&gt;Mode:3421_x002C_Lead:3_x002C_Measure:1_x002C_MinSpeed:25_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:10_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:2_x002C_MaxMultiZoom:3_x002C_MinSingleZoom:2_x002C_SingleZoom:8_x002C_MaxSingleZoom:15_x002C_Location:1&lt;/page&gt;&lt;/recordingtype&gt;&lt;recordingtype xmlVersion="2" id="2"&gt;&lt;page id="aaafbc10-976a-493e-92dd-161cf7e08d75" name="Rhythmus_x0020_1" type="102"&gt;MinSpeed:5_x002C_Speed:10_x002C_MaxSpeed:50_x002C_MinSensitivity:5_x002C_Sensitivity:5_x002C_MaxSensitivity:10_x002C_ViewMode:1_x002C_Lead0:9999_x002C_Lead1:9999_x002C_Lead2:9999&lt;/page&gt;&lt;page id="af473c4c-9c59-4e5b-a4d3-b02b1151f8b9" name="Rhythm_x0020_Horizontal_x0020_1" type="102"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_ViewMode:2_x002C_Sheet:-1_x002C_E05_LeadProgramStandard:1&lt;/page&gt;&lt;page id="aa9c5509-8d5a-4ba7-b0f2-88ba46cbd47f" name="ReviewEcgPage_x0020_1" type="101"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:1_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:1_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:1&lt;/page&gt;&lt;page id="ab40876e-3fed-431d-9e83-e228e4e3077c" name="ReviewEcgPage_x0020_2" type="101"&gt;MinSpeed:10_x002C_Speed:25_x002C_MaxSpeed:25_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:4_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:2_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:4&lt;/page&gt;&lt;page id="a84c11f4-529f-4752-9dbb-4d13ea751e81" name="QrsComplex_x0020_1" type="105"&gt;Mode:341_x002C_Lead:3_x002C_Measure:0_x002C_MinSpeed:25_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:10_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:1_x002C_MaxMultiZoom:3_x002C_MinSingleZoom:1_x002C_SingleZoom:3_x002C_MaxSingleZoom:8_x002C_Location:1&lt;/page&gt;&lt;page id="a4dc840c-18f7-4f7b-bb15-9842803b89e7" name="QrsComplex_x0020_2" type="105"&gt;Mode:3421_x002C_Lead:3_x002C_Measure:1_x002C_MinSpeed:25_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:10_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:2_x002C_MaxMultiZoom:3_x002C_MinSingleZoom:2_x002C_SingleZoom:8_x002C_MaxSingleZoom:15_x002C_Location:1&lt;/page&gt;&lt;/recordingtype&gt;&lt;recordingtype xmlVersion="2" id="3"&gt;&lt;page id="a9bd0e88-9cd3-40c7-b442-51328b02b483" name="Rhythmus_x0020_2" type="102"&gt;MinSpeed:5_x002C_Speed:10_x002C_MaxSpeed:50_x002C_MinSensitivity:5_x002C_Sensitivity:5_x002C_MaxSensitivity:10_x002C_ViewMode:1_x002C_Lead0:9999_x002C_Lead1:9999_x002C_Lead2:9999&lt;/page&gt;&lt;page id="a4d24353-f87c-4aec-bfef-88766a38d1d1" name="Rhythm_x0020_Horizontal_x0020_3" type="102"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_ViewMode:2_x002C_Sheet:-1_x002C_E05_LeadProgramStandard:1&lt;/page&gt;&lt;page id="ac3bbb94-b983-4e9c-b4f5-f4ecb6227736" name="Rhythm_x0020_Horizontal_x0020_2" type="102"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_ViewMode:2_x002C_Sheet:-1_x002C_E05_LeadProgramStandard:8&lt;/page&gt;&lt;page id="a9b1f419-cb04-4fe7-8a29-662a13275937" name="ReviewEcgPage_x0020_4" type="101"&gt;MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:200_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:10_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:1_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:1&lt;/page&gt;&lt;page id="a2e64187-4396-4b54-a5c8-0da6a04c4c21" name="ReviewEcgPage_x0020_6" type="101"&gt;MinSpeed:10_x002C_Speed:25_x002C_MaxSpeed:25_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_Roll:0_x002C_Caption:1_x002C_E05_LeadProgramStandard:4_x002C_E05_LeadProgramLimb:1_x002C_E05_LeadProgramFrank:1_x002C_E05_LeadProgramNehb:1_x002C_E05_LeadProgramEmergency:2_x002C_E05_LeadProgramDorsal:1_x002C_E05_LeadProgramRP:1_x002C_Sheet:4&lt;/page&gt;&lt;page id="a70471ca-d1e3-479f-b8bc-08327c42ec4a" name="StressTestQrsComplex_x0020_1" type="112"&gt;Mode:2_x002C_Trend:0_x002C_IsoLine:0_x002C_IsoMode:0_x002C_MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:1_x002C_MaxMultiZoom:1_x002C_MinSingleZoom:1_x002C_SingleZoom:2_x002C_MaxSingleZoom:5_x002C_ReferenceMode:1&lt;/page&gt;&lt;page id="a3a3b504-1c93-4bce-a456-f684e6ec65bd" name="StressTestQrsComplex_x0020_2" type="112"&gt;Mode:3_x002C_Trend:1_x002C_IsoLine:1_x002C_IsoMode:0_x002C_MinSpeed:5_x002C_Speed:25_x002C_MaxSpeed:50_x002C_MinSensitivity:5_x002C_Sensitivity:10_x002C_MaxSensitivity:20_x002C_MinMultiZoom:1_x002C_MultiZoom:1_x002C_MaxMultiZoom:3_x002C_MinSingleZoom:1_x002C_SingleZoom:3_x002C_MaxSingleZoom:10_x002C_ReferenceMode:1&lt;/page&gt;&lt;page id="ab97397a-3bbf-4c75-b130-806959337456" name="Trend_x0020_1" type="109"&gt;Small_x003D_1_x003B_Large_x003D_0_x003B_ST_x003D_0_x003B_BPC_x003D_v_x003B_HRC_x003D_v_x003B_WCC_x003D_v_x003B_LoadC_x003D_v_x003B_RotationsC_x003D_v_x003B_SpeedC_x003D_v_x003B_SlopeC_x003D_v_x003B_METsC_x003D_v_x003B_RPEC_x003D_v_x003B_STC_x003D_v_x003B_ST_Deviation_x003D_0&lt;/page&gt;&lt;page id="a9d93374-0fd5-4cdc-932f-40698548f084" name="Trend_x0020_2" type="109"&gt;Small_x003D_0_x003B_Large_x003D_1_x003B_ST_x003D_0_x003B_BPC_x003D_v_x003B_HRC_x003D_v_x003B_WCC_x003D_v_x003B_LoadC_x003D_v_x003B_RotationsC_x003D_v_x003B_SpeedC_x003D_v_x003B_SlopeC_x003D_v_x003B_METsC_x003D_v_x003B_RPEC_x003D_v_x003B_LactateC_x003D_v_x003B_SPO2C_x003D_v_x003B_PDurationC_x003D_v_x003B_PQIntervalC_x003D_v_x003B_PQSegmentC_x003D_v_x003B_QRSDurationC_x003D_h_x003B_QTcC_x003D_h_x003B_QTIntervalC_x003D_h_x003B_QTrelC_x003D_h_x003B_ST_Deviation_x003D_0&lt;/page&gt;&lt;/recordingtype&gt;&lt;/pageoptions&gt;</setting>
+  <setting id="E05_Acquisition_AbortreasonsAskIfEmpty" type="1">false</setting>
+  <setting id="E05_Acquisition_LeadsRawDataDirectory" type="5"></setting>
+  <setting id="E05_Acquisition_ElectrodesRawDataDirectory" type="5"></setting>
+  <setting id="E05_ActiveDevicePlugins" type="5">s05plugin_002.dll;s05plugin_011.dll</setting>
+  <setting id="E05_STAveraging" type="4">0</setting>
+  <setting id="E05_Analysis_AgeHandling" type="4">12784</setting>
+  <setting id="E05_Analysis_SexHandling" type="4">0</setting>
+  <setting id="E05_Analysis_RhythmDiagram" type="4">0</setting>
+  <setting id="E05_Analysis_HfNoise" type="1">false</setting>
+  <setting id="E05_Analysis_QTDispersion" type="4">1</setting>
+  <setting id="E05_Analysis_Pediatric" type="4">2</setting>
+  <setting id="E05_Analysis_ShowIndexes" type="1">true</setting>
+  <setting id="E05_Analysis_Suppress" type="4">0</setting>
+  <setting id="E05_Analysis_QtcFormula" type="4">1</setting>
+  <setting id="E05_Analysis_QtcOutOfNormCalc" type="5">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;QTcOutOfNorm Method="None" MaleMin="350" MaleMax="445" FemaleMin="350" FemaleMax="445" /&gt;</setting>
+  <setting id="E05_Analysis_WantedLines" type="5">all</setting>
+  <setting id="E05_FilterMainsFrequency" type="4">50</setting>
+  <setting id="E05_Print_PageNumberMode" type="4">1</setting>
+  <setting id="E05_Print_Resting_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="Normal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_Print_Resting_PreselectedFormats" type="5">acb336cd-a71c-4006-8ecb-cb453e34c9bd</setting>
+  <setting id="E05_Print_Resting_SelectedFormats" type="5">acb336cd-a71c-4006-8ecb-cb453e34c9bd</setting>
+  <setting id="E05_Print_Rhythm_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="Normal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_Print_Stress_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="Normal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_PrintPDF_PageNumberMode" type="4">1</setting>
+  <setting id="E05_PrintPDF_Resting_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="RedNormal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_PrintPDF_Resting_PreselectedFormats" type="5">acb336cd-a71c-4006-8ecb-cb453e34c9bd,</setting>
+  <setting id="E05_PrintPDF_Rhythm_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="RedNormal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_PrintPDF_Stress_Para" type="3">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;PrintPara Grid="RedNormal"&gt;&lt;ecgparaStrip speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRhythm speed="-1" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaRepCycle speed="25" sensitivity="10" vHalf="false" /&gt;&lt;ecgparaVectorLoop speed="5" sensitivity="40" vHalf="false" /&gt;&lt;ecgparaFullDisclosure speed="5" sensitivity="5" vHalf="false" /&gt;&lt;ecgPen Thickness="0.2" /&gt;&lt;/PrintPara&gt;</setting>
+  <setting id="E05_METsAdaptionTime" type="4">0</setting>
+  <setting id="E05_UseTreadmillDistance" type="1">false</setting>
+  <setting id="E05_StressTestTable_Short_TimeStampsStepStages" type="4">-1</setting>
+  <setting id="E05_StressTestTable_Short_TimeStampsRampStages" type="4">120</setting>
+  <setting id="E05_HRV_NumberOfRRsForAverage" type="4">5</setting>
+  <setting id="E05_HRV_PrematureFactor" type="4">80</setting>
+  <setting id="E05_HRV_DelayedFactor" type="4">120</setting>
+  <setting id="E05_HRV_RRReferenceBack" type="4">1</setting>
+  <setting id="E05_HRV_RRAxisScale" type="4">1200</setting>
+  <setting id="E05_HRV_RRAxisScaleMinimum" type="4">200</setting>
+  <setting id="E05_WindowPostion_UnsavedDataDialog" type="5">768,375,383,289</setting>
+  <setting id="E05_WindowPostion_RemarksDialog" type="5">52,52,641,460</setting>
+  <setting id="E05_BPMessage_Auto" type="5"></setting>
+  <setting id="E05_BPMessage_Manual" type="5"></setting>
+  <setting id="E05_DoctorsLetter_PatternResting" type="5">{\rtf1\ansi\ansicpg1252\deff0\deflang3081{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\tx2490\tx4980\tx7470\fs23\par
+}
+</setting>
+  <setting id="E05_DoctorsLetter_PatternRhythm" type="5">{\rtf1\ansi\ansicpg1252\deff0\deflang3081{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\tx2490\tx4980\tx7470\fs23\par
+}
+</setting>
+  <setting id="E05_DoctorsLetter_PatternStress" type="5">{\rtf1\ansi\ansicpg1252\deff0\deflang3081{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\tx2490\tx4980\tx7470\fs23\par
+}
+</setting>
+  <setting id="E05_StressTest_UseUnconfirmedHesValues" type="5"></setting>
+  <setting id="HolterRR_Diary_Text" type="5">{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fswiss\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+\viewkind4\uc1\pard\ul\b\f0\fs20 What should you know during the recording?\b0\par
+\ulnone\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-284\li284 Try to follow you daily routine as normal as possible in order to get a realistic picture of your day.\par
+{\pntext\f1\'B7\tab}A beep gives notice of a new blood pressure measurement. Keep still as long as the measurement is in progress. Let your arm hang down your body loosely, or when sitting, let your forearm loosely lay on a table. Also, avoid any movements of your hand.\par
+{\pntext\f1\'B7\tab}Record all of your activities, symptoms as well as taking of medications together with the according time of day.\par
+{\pntext\f1\'B7\tab}In case if symptoms or other severe events, press the recorder's Event key (the right-most blue key).\par
+{\pntext\f1\'B7\tab}Please press the Day/Night button (the sun-and-moon button in the middle) just before you fall asleep at night, and again as soon as you wake up in the morning. This will switch the recorder into the right measurement mode, and provides your doctor with exact information about your sleep-wake-cycle.\par
+\pard\par
+\ul\b Important notes on the usage of the recorder:\par
+\par
+\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-284\li284\ulnone\b0 Pay attention that the pressure hose is never bended or squeezed.\par
+{\pntext\f1\'B7\tab}Do not shower or bath while wearing the device, and generally keep it away from water as it is not waterproof!\par
+{\pntext\f1\'B7\tab}Do not try to open the device.\par
+}
+</setting>
+  <setting id="HolterRR_Diary_PrefillTime" type="1">false</setting>
+  <setting id="HolterRR_Diary_TimePattern" type="4">15</setting>
+  <setting id="HolterRR_Diary_TestDuration" type="4">1</setting>
+  <setting id="HolterRR_Diary_PageCount" type="4">1</setting>
+  <setting id="HolterRR_Diary_ColsPerPage" type="4">3</setting>
+  <setting id="HolterRR_Diary_AutoPrint" type="1">false</setting>
+  <setting id="HolterRR_Diary_AutoPrintWithDialog" type="1">true</setting>
+  <setting id="HolterRR_ActivePlugins" type="5">s05plugin_031.dll</setting>
+  <setting id="HolterRR_NormValues" type="5">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;normvalues method="Fixed" singleday="140/90" singlenight="125/80" averageday="135/85" averagenight="120/70" averageoverall="130/80" maxdippingreverse="0" maxdippingnon="10" maxdippingnormal="20" /&gt;</setting>
+  <setting id="HolterRR_NormValuesCalculationMethod" type="4">1</setting>
+  <setting id="HolterRR_AutoOpenRemarks_Trigger" type="4">0</setting>
+  <setting id="HolterRR_Remarks_Print" type="1">true</setting>
+  <setting id="HolterRR_AutoOpenRemarks_InitialTabPage" type="5">comments</setting>
+  <setting id="HolterRR_ComparisonMode_AutomaticOpenPreviousAcquisition" type="1">false</setting>
+  <setting id="HolterRR_ScanPatientDiaryInDownload" type="1">false</setting>
+  <setting id="HolterRR_DoctorsLetter_Pattern" type="5">{\rtf1\ansi\ansicpg1252\deff0\deflang3081{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\tx2490\tx4980\tx7470\fs23\par
+}
+</setting>
+  <setting id="S05_Plugin001_EcgDeviceEnabled" type="1">false</setting>
+  <setting id="S05_Plugin001_SimulateBatteryPoweredDevice" type="1">false</setting>
+  <setting id="S05_Plugin001_SimulateBatteryValues" type="1">false</setting>
+  <setting id="S05_Plugin001_AskForEcgFile" type="1">false</setting>
+  <setting id="S05_Plugin002_PacemakerImpulseWidth" type="4">8</setting>
+  <setting id="S05_Plugin002_QRSTriggerDuration" type="4">50</setting>
+  <setting id="S05_Plugin002_QRSTriggerInterface" type="4">0</setting>
+  <setting id="S05_Plugin002_QRSTriggerPort" type="4">0</setting>
+  <setting id="S05_Plugin002_QRSTriggerValueSet" type="4">255</setting>
+  <setting id="S05_Plugin002_QRSTriggerValueReset" type="4">0</setting>
+  <setting id="S05_Plugin002_DemoEcg" type="4">0</setting>
+  <setting id="S05_Plugin002_AutoResetDemoEcg" type="1">false</setting>
+  <setting id="S05_Plugin002_EcgDeviceEnabled" type="1">true</setting>
+  <setting id="S05_Plugin005_In_Filename" type="5">%TEMP\AmedTecInput.gdt</setting>
+  <setting id="S05_Plugin005_In_NewPatientAction" type="4">3</setting>
+  <setting id="S05_Plugin005_In_UpdatePatientAction" type="4">3</setting>
+  <setting id="S05_Plugin005_In_HandlePatDetailsLike6301" type="1">true</setting>
+  <setting id="S05_Plugin005_Out_Filename" type="5">%TEMP\AmedTecOutput.gdt</setting>
+  <setting id="S05_Plugin005_Out_MinimizeAfterExport" type="1">false</setting>
+  <setting id="S05_Plugin005_Out_CloseAfterExport" type="1">true</setting>
+  <setting id="S05_Plugin005_Out_ExportSettings" type="5">Resting,t,t,f,t,f;Rhythm,t,t,f,f,f;Stress,t,t,f,f,f;HolterRaw,t,f,f,f,f;HolterAna,f,f,f,f,f;HolterRep,t,t,f,f,f;HolterRR,t,t,f,f,f;Gdt,t,t,f,f,f;Pdf,t,t,f,f,f</setting>
+  <setting id="S05_Plugin005_Out_AppendFiletypesByRecType" type="5">Resting,3;Rhythm,0;Stress,0;HolterRaw,0;HolterRep,0;HolterRR,0;Gdt,0;Pdf,0;</setting>
+  <setting id="S05_Plugin005_Out_AppendFilePath" type="5">%TEMP</setting>
+  <setting id="S05_Plugin005_Out_AppendFileName" type="5">AmedTecTest</setting>

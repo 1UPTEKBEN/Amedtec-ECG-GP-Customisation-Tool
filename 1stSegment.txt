@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <setting id="S05_StartupWindowState" type="4">0</setting>
+  <setting id="S05_ActivePluginsOnS05Startup" type="5">s05plugin_005.dll</setting>
+  <setting id="S05_TestProcedureActive" type="5">a58f0504-8bf6-46d0-af37-e7cfb178bbdc=Y;ae8ec323-3f44-469a-b940-da94f83c786e=N;a8e8127f-829c-4e3d-aca2-8bce43d12d92=Y;a730a50e-e4a2-43d7-8449-59eb0d5b4332=N;a59b5d05-0938-4961-81aa-311ac879ddd4=N;a5b7dccf-437d-428e-983d-72a68b726eb7=N;a9a560cf-a9b8-49e2-8030-3aea9b053852=N;acf77e4a-5b3b-4538-b33b-0cd5cb2b2648=N;ae5791f7-be64-4933-9cce-08a90ef507b6=N;ae802b6d-d95a-446d-a4a7-6d90208bc073=N;a56bdc58-7097-497c-ac91-00b17f8629eb=N;a4559a29-ea45-4e1b-a91d-f2ab8108c18e=N;acdfdab6-eef7-4e29-8742-3dfca19f08e3=N;ad498008-c3f1-4997-ab91-1140f45a6efa=N;a98a784a-d565-401e-b3de-3597816e4edb=N;a34f0f8c-3713-46c0-a922-230172cad53b=N;a66d1b1b-79bb-40d9-b7a6-12d8bda428f9=N</setting>
